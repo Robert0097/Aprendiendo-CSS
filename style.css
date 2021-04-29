@@ -20,6 +20,7 @@ header {
 nav {
     background-color: #2f2fa1;
     color: #ffff;
+    box-shadow: 2px 2px 22px rgb(32, 31, 31);
     /* position: fixed;
     width: 100%; */
     
